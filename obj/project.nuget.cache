@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yu71QJELuIhnASKf+/Z0WUhV+my3YpY8CdQ9IcZN05qsdJd6gEND0FwotYebp5QnzUQ4JmTp+QDXi72f8Fv89w==",
+  "dgSpecHash": "rRPn7jLik/pzvtg7fZK1tEKz3WlH7c0UPLEB1jABxRvZGimT0ZNh6Z8zNKYsFMiTYyfy8EdVs6ecKqCJg1rKAg==",
   "success": true,
-  "projectFilePath": "E:\\PROGRAMAÇÂO\\Estudos\\Projetos\\financeiro\\financeiro.csproj",
+  "projectFilePath": "e:\\PROGRAMAÇÂO\\Estudos\\Projetos\\financeiro\\financeiro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\djarl\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\djarl\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
